@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning *Deep Leaning*
 
-💬 Ask me about * Python, C++, Machine Learning, Deep Learning, HTML, CSS, Java Script, Bootstrap and Tailwind [here]((www.linkedin.com/in/omar-medhat-3202b3302))*
+💬 Ask me about * Python, C++, Machine Learning, Deep Learning, HTML, CSS, Java Script, Bootstrap and Tailwind [here](https://www.linkedin.com/in/omar-medhat-3202b3302/)*
 
 
  </div>
@@ -23,7 +23,7 @@
   <a href="mailto:s-omar.saad@zewailcity.edu.eg">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/omar-medhat-3202b3302/" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-medhat-3202b3302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
